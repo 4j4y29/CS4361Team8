@@ -1,0 +1,4 @@
+Import part 1 then part2, if it asks to reload scene do it.
+Once open in Unity, go to package manager and install input systems
+Next, if gameover scene is not in hierarchy (for some reason it keeps removing it), under project in the assets folder, search for GameOver,
+then drag it into the hierarchy, then right click it and unload it.
